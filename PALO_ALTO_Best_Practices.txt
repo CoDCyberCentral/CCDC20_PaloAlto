@@ -1,0 +1,5 @@
+https://docs.paloaltonetworks.com/best-practices/8-1/dos-and-zone-protection-best-practices.html
+https://docs.paloaltonetworks.com/best-practices
+https://docs.paloaltonetworks.com/pan-os/7-1/pan-os-admin/getting-started/best-practices-for-completing-the-firewall-deployment
+https://www.paloaltonetworks.com/services/bpa
+https://docs.paloaltonetworks.com/pan-os/7-1/pan-os-admin/policy/best-practice-internet-gateway-security-policy/create-best-practice-security-profiles
